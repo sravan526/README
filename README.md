@@ -5,7 +5,7 @@ I'm a passionate **Senior QA Automation Engineer** with **7.8+ years** of experi
 
 Currently working at **Qatar Airways (Virtusa)**, I'm actively seeking **QA roles in Europe** with **Visa Sponsorship**. I believe great QA is about **ensuring confidence in every release** and empowering teams with faster, safer deployments.
 
----
+----
 
 ## 💻 Tech Stack & Skills
 
